@@ -7,7 +7,7 @@
 
 <h2>About Me </h2>
 
-- 🎓 I am passionate about DevOps, Cloud, and Infrastructure. and shifting to DevOps! 
+- 🎓 I am passionate about DevOps, Cloud, and Infrastructure.
 
 ## 👨‍💻 Review DevOps E2E Projects :</h2>
 - :page_with_curl: [Data-Migration-Project](https://github.com/KareemKhamis/Migration-project-between-Azure-DevOps-Cloud). </br>
